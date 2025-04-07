@@ -1,4 +1,7 @@
-## Hi there 👋
+## neago 
+
+![20121114 Caffeine texture](https://github.com/user-attachments/assets/bde50f68-8339-40b5-ac4e-6e5f919c3449)
+
 
 <!--
 **neago/neago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

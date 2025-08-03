@@ -1,6 +1,6 @@
 ## neago 
 
-![20121114 Caffeine texture](https://github.com/user-attachments/assets/bde50f68-8339-40b5-ac4e-6e5f919c3449)
+![20120716 coffee and code](https://github.com/user-attachments/assets/a2995086-17f1-46bf-9888-9e83527a7a81)
 
 
 <!--
